@@ -2,54 +2,55 @@
 
 SDET | QA Automation Engineer | Python, API, CI/CD, Test Framework Design
 
-I build test automation frameworks and quality workflows focused on backend/API validation, reliable test design, and CI integration. My current portfolio highlights Python-based automation for storage and embedded/backend communication systems, with upcoming work in UI automation using Selenium and Playwright.
+I build test automation frameworks focused on backend/API validation, reliable test design, and CI integration. My portfolio highlights Python-based automation for storage and embedded/backend communication systems, with upcoming work in UI automation using Selenium and Playwright.
 
 ## Featured Projects
 
 ### [S3 Storage Automation Framework](https://github.com/solracq/s3-storage-automation-framework)
-Python-based automation framework for validating S3-compatible storage workflows, API behavior, and test reporting.
-- Pytest-based test architecture
-- Smoke, regression, and unit test separation
-- Docker-based local test environment
-- Jenkins pipeline with report publication
-- HTML and JUnit test reporting
+Python-based automation framework for validating S3-compatible storage APIs, end-to-end workflows, and CI-friendly test reporting.
+Tech highlights:
+- Pytest-based automation framework architecture
+- Unit, smoke, and regression test separation
+- Docker-based local environment
+- Jenkins pipeline CI integration
+- JUnit and HTML reporting
 
 ### [CAN Bus Automation Framework](https://github.com/solracq/can-bus-automation-framework)
-Automation framework for validating CAN bus message flows and controller-level communication scenarios.
+Python-based automation framework for validating CAN bus message flows, signal behavior, and controller-level communication scenarios.
+Tech highlights:
 - Automated CAN message validation
-- Python-based test implementation
-- Focus on backend / embedded communication quality
-- Expandable framework design for automotive-style test scenarios
+- Python-based automation framework structure
+- Backend / embedded communication testing focus
+- Expandable design for additional controller-level and automotive-style scenarios
 
 ## What I Focus On
 
 - Designing automation frameworks from scratch
-- API and backend test automation
-- Test strategy for smoke, regression, and unit coverage
+- API and backend test automation, REST, Websockets, S3-compatible storage, service validation
+- Test plan and test strategy for smoke, regression, and unit coverage
 - CI/CD integration with Jenkins
 - Maintainable Python test architecture
-- Practical AI-assisted development and review workflows
 
-## Core Stack
+## Core Skills
 
-- Languages: Python, SQL, Bash
-- Test: Pytest, API testing, test reporting, data-driven validation
-- CI/CD: Jenkins, GitHub, Docker
-- Backend/API: REST, S3-compatible storage, service validation
-- Current UI direction: Selenium
-- Next learning target: Playwright
+- Python test automation
+- API and backend validation
+- Test framework design from scratch
+- Pytest architecture and reporting
+- CI/CD with Jenkins
+- Docker-based test environments
+- GitHub workflow and project versioning
+- Practical AI-assisted development and code review using Codex and Claude
 
 ## Current Direction
 
-I’m growing this portfolio in two tracks:
+I’m currently expanding this portfolio in two directions:
 - Backend and API automation frameworks
-- Frontend/UI automation frameworks
-
-My next portfolio project will focus on UI automation with Selenium, followed by Playwright-based automation once that track is ready.
+- Frontend/UI automation frameworks with Selenium first, then Playwright
 
 ## AI-Assisted Development
 
-I use AI tools such as OpenAI Codex and editor-based assistants to improve development speed, troubleshooting, refactoring, and review quality. I treat AI as an engineering assistant, not a substitute for ownership: test strategy, framework design, implementation decisions, validation, and final quality remain my responsibility.
+I use AI tools such as OpenAI Codex and editor-based assistants to improve development speed, refactoring, troubleshooting, and review quality. I use AI as an engineering assistant, while test strategy, framework design, implementation decisions, validation, and final quality remain my responsibility.
 
 ## Connect
 
