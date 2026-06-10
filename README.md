@@ -2,7 +2,7 @@
 
 SDET | QA Automation Engineer | Python, API, CI/CD, Test Framework Design
 
-I build test automation frameworks focused on backend/API validation, reliable test design, and CI integration. My portfolio highlights Python-based automation for storage and embedded/backend communication systems, with upcoming work in UI automation using Selenium and Playwright.
+I build test automation frameworks focused on backend/API validation, reliable test design, and CI integration. My portfolio highlights Python-based automation for storage and embedded/backend communication systems, and browser-driven UI validation using Selenium.
 
 ## Featured Projects
 
@@ -14,6 +14,15 @@ Tech highlights:
 - Docker-based local environment
 - Jenkins pipeline CI integration
 - JUnit and HTML reporting
+
+### [S3 Storage UI Automation Framework](https://github.com/solracq/s3-storage-ui-automation-framework)
+Python-based UI automation framework built around a FastAPI + MinIO Secure S3 File Portal, validating authentication, role-based access, file workflows, audit logging, and CI-friendly browser test execution.
+Tech highlights:
+- Selenium WebDriver + Pytest Page Object Model framework
+- Smoke, regression, negative, edge, and authentication test coverage
+- FastAPI + Jinja2 system under test with MinIO-backed file workflows
+- Docker-based local environment
+- Jenkins staged pipeline CI integration with JUnit reporting and archived artifacts
 
 ### [CAN Bus Automation Framework](https://github.com/solracq/can-bus-automation-framework)
 Python-based automation framework for validating CAN bus message flows, signal behavior, and controller-level communication scenarios.
